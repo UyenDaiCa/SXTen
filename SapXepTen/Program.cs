@@ -38,7 +38,7 @@ namespace SapXepTen
             Console.WriteLine("\nDanh sach hoc sinh: ");
             foreach (HocSinh HS in sd)
             {
-                Console.WriteLine(HS.HoTen + " ....... " + HS.Tuoi + " ....... " + HS.GioiTinh);
+                Console.WriteLine("\n" + HS.HoTen + " ....... " + HS.Tuoi + " ....... " + HS.GioiTinh);
             }
             Console.ReadKey();
 
