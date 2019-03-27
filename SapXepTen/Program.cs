@@ -13,17 +13,17 @@ namespace SapXepTen
             List<HocSinh> mHocSinh = new List<HocSinh>()
             {
 
-            new HocSinh () {HoTen= "Nguyen Hoang Nam", Tuoi = 18, GioiTinh="nam"},
-            new HocSinh () {HoTen= "Le Tuan Anh", Tuoi =5, GioiTinh = "nam"},
-            new HocSinh () {HoTen= "Nguyen Thi Huyen",Tuoi = 10, GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Vu Binh Duong", Tuoi =16,GioiTinh= "nam"},
-            new HocSinh () {HoTen= "Pham Thi Hue",Tuoi = 20,GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Nguyen Thi Chinh",Tuoi = 11,GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Le Thi Hoai",Tuoi = 10,GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Phan Thi Hong Hao",Tuoi = 18,GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Pham Duc Huy",Tuoi = 5,GioiTinh= "nam"},
-            new HocSinh () {HoTen= "Nguyen Thi Huyen",Tuoi = 8,GioiTinh= "nu"},
-            new HocSinh () {HoTen= "Pham Thi Chinh",Tuoi = 22,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Nguyen Hoang Nam", Tuoi = 18, GioiTinh="nam"},
+            new HocSinh () { HoTen= "Le Tuan Anh", Tuoi =5, GioiTinh = "nam"},
+            new HocSinh () { HoTen= "Nguyen Thi Huyen",Tuoi = 10, GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Vu Binh Duong", Tuoi =16,GioiTinh= "nam"},
+            new HocSinh () { HoTen= "Pham Thi Hue",Tuoi = 20,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Nguyen Thi Chinh",Tuoi = 11,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Le Thi Hoai",Tuoi = 10,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Phan Thi Hong Hao",Tuoi = 18,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Pham Duc Huy",Tuoi = 5,GioiTinh= "nam"},
+            new HocSinh () { HoTen= "Nguyen Thi Huyen",Tuoi = 8,GioiTinh= "nu"},
+            new HocSinh () { HoTen= "Pham Thi Chinh",Tuoi = 22,GioiTinh= "nu"},
 
             };
             //Cat lay ten de sap xep theo ten
