@@ -24,7 +24,6 @@ namespace SapXepTen
             new HocSinh () { HoTen= "Pham Duc Huy",Tuoi = 5,GioiTinh= "nam"},
             new HocSinh () { HoTen= "Nguyen Thi Huyen",Tuoi = 8,GioiTinh= "nu"},
             new HocSinh () { HoTen= "Pham Thi Chinh",Tuoi = 22,GioiTinh= "nu"},
-
             };
             //Cat lay ten de sap xep theo ten
             foreach (HocSinh HS in mHocSinh)
