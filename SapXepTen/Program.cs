@@ -26,7 +26,7 @@ namespace SapXepTen
             new HocSinh () {HoTen= "Pham Thi Chinh",Tuoi = 22,GioiTinh= "nu" },
 
             };
-            //Cat lay ten de sap xep
+            //Cat lay ten de sap xep theo ten
             foreach (HocSinh HS in mHocSinh)
             {
                 string[] cut = HS.HoTen.Split(' ');
